@@ -20,6 +20,10 @@ Tools:
 The solution used in this project is based on the ["Modern analytics architecture with Azure Databricks"](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture) from the Azure Architecture Center:
 ![image](https://camo.githubusercontent.com/a95da7f94ffefc340bfb5639070c8366b6df51a0803792db201996349e811ea0/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f617a7572652f6172636869746563747572652f736f6c7574696f6e2d69646561732f6d656469612f617a7572652d64617461627269636b732d6d6f6465726e2d616e616c79746963732d6172636869746563747572652d6469616772616d2e706e67)
 
+The Architecture I used in the project resembles the above architecture diagram.
+
+![image](https://github.com/user-attachments/assets/a5ebb771-02ff-4b51-9117-1463dbbf287c)
+
 ## Project Highlights
 𝗗𝗮𝘁𝗮 𝗜𝗻𝗴𝗲𝘀𝘁𝗶𝗼𝗻:
 Configured Azure Data Lake Storage Gen2 to store raw Formula 1 race data and used Azure Databricks for scalable, distributed data processing.
