@@ -5,6 +5,8 @@ In this Project, I have bulit an end to end ETL pipeline for analyzing Formula1 
 The data used here is obtained from the Ergast Developer API
 DataSet Link:
 [Formula 1 Ergast Data](https://ergast.com/mrd/)
+To know more about the Dataset :[user guide](https://ergast.com/docs/f1db_user_guide.txt)
+-Below is the ER diagram:
 ![image](https://github.com/user-attachments/assets/a8ae5326-1f0e-4bc7-8bfc-24a256c4956c)
 Tools:
 - [Python](https://www.python.org/)
